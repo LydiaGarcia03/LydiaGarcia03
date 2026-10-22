@@ -31,19 +31,14 @@ Backend developer, working with Java and Spring since 2020. I care about quality
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LydiaGarcia03&show_icons=true&hide_border=true&title_color=5c9ce6&icon_color=5c9ce6&text_color=e6edf3&bg_color=0d1117">
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LydiaGarcia03&show_icons=true&hide_border=true&title_color=3178c6&icon_color=3178c6&text_color=1f2328&bg_color=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LydiaGarcia03&show_icons=true&hide_rank=true&hide_border=true&title_color=5c9ce6&icon_color=5c9ce6&text_color=e6edf3&bg_color=0d1117">
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LydiaGarcia03&show_icons=true&hide_rank=true&hide_border=true&title_color=3178c6&icon_color=3178c6&text_color=1f2328&bg_color=ffffff">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaGarcia03&layout=compact&langs_count=6&hide_border=true&title_color=5c9ce6&text_color=e6edf3&bg_color=0d1117">
     <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaGarcia03&layout=compact&langs_count=6&hide_border=true&title_color=3178c6&text_color=1f2328&bg_color=ffffff">
   </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LydiaGarcia03/LydiaGarcia03/output/github-snake-dark.svg">
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/LydiaGarcia03/LydiaGarcia03/output/github-snake.svg">
-</picture>
 
 ### Find me
 
