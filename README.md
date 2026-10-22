@@ -2,6 +2,8 @@
 
 Backend developer, working with Java and Spring since 2020. I care about quality and security, from unit tests to keeping legacy code healthy.
 
+> 🧪 This profile holds my personal and academic projects. My professional work lives in private company repositories.
+
 - ☕ Java every day, from 8 to 25, with the Spring ecosystem
 - 🗄️ Databases: Oracle PL/SQL, SQL Server
 - 🤖 Pairing with Claude and GitHub Copilot
