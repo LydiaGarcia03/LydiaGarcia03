@@ -31,19 +31,14 @@ Backend developer, working with Java and Spring since 2020. I care about quality
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LydiaGarcia03&show_icons=true&hide_border=true&title_color=3cc7b2&icon_color=3cc7b2&text_color=e6edf3&bg_color=0d1117">
-    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LydiaGarcia03&show_icons=true&hide_border=true&title_color=138a7a&icon_color=138a7a&text_color=1f2328&bg_color=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LydiaGarcia03&show_icons=true&hide_border=true&title_color=5c9ce6&icon_color=5c9ce6&text_color=e6edf3&bg_color=0d1117">
+    <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LydiaGarcia03&show_icons=true&hide_border=true&title_color=3178c6&icon_color=3178c6&text_color=1f2328&bg_color=ffffff">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaGarcia03&layout=compact&langs_count=6&hide_border=true&title_color=3cc7b2&text_color=e6edf3&bg_color=0d1117">
-    <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaGarcia03&layout=compact&langs_count=6&hide_border=true&title_color=138a7a&text_color=1f2328&bg_color=ffffff">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaGarcia03&layout=compact&langs_count=6&hide_border=true&title_color=5c9ce6&text_color=e6edf3&bg_color=0d1117">
+    <img height="170" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LydiaGarcia03&layout=compact&langs_count=6&hide_border=true&title_color=3178c6&text_color=1f2328&bg_color=ffffff">
   </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=LydiaGarcia03&hide_border=true&background=0D1117&ring=3CC7B2&fire=3CC7B2&currStreakLabel=3CC7B2&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=9198A1&dates=9198A1&stroke=3D444D">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=LydiaGarcia03&hide_border=true&background=FFFFFF&ring=138A7A&fire=138A7A&currStreakLabel=138A7A">
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LydiaGarcia03/LydiaGarcia03/output/github-snake-dark.svg">
