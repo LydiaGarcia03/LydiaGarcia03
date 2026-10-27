@@ -7,7 +7,7 @@ Backend developer, working with Java and Spring since 2020. I care about quality
 - ☕ Java every day, from 8 to 25, with the Spring ecosystem
 - 🗄️ Databases: Oracle PL/SQL, SQL Server
 - 🤖 Pairing with Claude and GitHub Copilot
-- 🎓 Bachelor's degree in Information Systems (2026)
+- 🎓 Bachelor's degree in Information Systems (2025)
 
 ### Tech I use
 
